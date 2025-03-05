@@ -17,12 +17,5 @@ The HR Dashboard helps organizations track and analyze employee-related data, pr
 - `Data/` – Contains data sources used in the dashboard (if applicable)  
 - `Images/` – Screenshots of the dashboard for preview  
 
-##  Requirements  
-To view and modify the dashboard, you need:  
-- **Tableau Desktop** (Recommended version: 2021.4 or later)  
 
-##  Installation & Usage  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/hr-dashboard.git
-   cd hr-dashboard
+
