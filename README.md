@@ -14,8 +14,7 @@ The HR Dashboard helps organizations track and analyze employee-related data, pr
 
 ##  Files in this Repository  
 - `HR Dashboard _ #RWFD.twbx` – The main Tableau workbook  
-- `Data/` – Contains data sources used in the dashboard (if applicable)  
-- `Images/` – Screenshots of the dashboard for preview  
+
 
 
 
